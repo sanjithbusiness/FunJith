@@ -1,0 +1,23 @@
+.sic_sac_soe_icon img {
+  max-width: 100px; /* Set maximum width */
+  max-height: 100px; /* Set maximum height */
+margin-top: 20px;
+ padding: 10px 10px; 
+  border: 8px solid black;
+image-align: center;
+}
+
+.agecalculator_icon img {
+  max-width: 95px; /* Set maximum width */
+  max-height: 95px; /* Set maximum height */
+margin-top: 20px;
+ padding: 10px 10px; 
+  border: 8px solid black;
+text-align: center;
+	
+}
+
+.container {
+
+text-align: center;
+}
